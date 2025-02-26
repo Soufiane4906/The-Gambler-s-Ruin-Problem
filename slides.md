@@ -593,9 +593,9 @@ class: text-center
 <div class="p-4 bg-green-50 rounded-lg">
 
 ## Contact Information
-- Email: example@university.edu
-- GitHub: github.com/username
-- Website: www.example.com
+- Email: soudev2001@gmail.com
+- GitHub: github.com/Soufiane4906
+
 
 </div>
 
