@@ -971,6 +971,15 @@ def min_value_distribution(b, p):
   <canvas id="insuranceRiskPlot" width="400" height="300"></canvas>
 
   <div class="mt-4 p-4 bg-green-50 rounded-lg">
+  <h2>Example Use Case</h2>
+  <p>Suppose we have an insurance company with an initial reserve of $1000 and
+  a probability of claim of 0.2. We want to know the probability of eventual
+  ruin when the daily premium is $1.</p>
+  <p>Using our formula, we get:</p>
+  <p>R_1000 = (0.8/0.2)^1000 ≈
+  <script>console.log(Math.pow(0.8/0.2, 1000 ))</script></p>
+  <p>This means that the probability of eventual ruin is approximately 0.000000000000
+
 
   ## Mathematical Model
 
