@@ -958,12 +958,10 @@ def min_value_distribution(b, p):
 
 <div class="mt-4 p-4 bg-blue-50 rounded-lg">
 
-## Key Insight
+## Contact Information
+- Email: soudev2001@gmail.com
+- GitHub: github.com/Soufiane4906
 
-Insurance company must maintain:
-- p > 0.5 for sustainable operations
-- Expected net income per day (E(Δ) = p - q) must be positive
-- Higher initial reserves dramatically reduce ruin probability
 
 </div>
 
