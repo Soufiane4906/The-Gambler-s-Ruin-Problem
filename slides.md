@@ -978,7 +978,9 @@ def min_value_distribution(b, p):
   <p>Using our formula, we get:</p>
   <p>R_1000 = (0.8/0.2)^1000 ≈
   <script>console.log(Math.pow(0.8/0.2, 1000 ))</script></p>
-  <p>This means that the probability of eventual ruin is approximately 0.000000000000
+  <p>This means that the probability of eventual ruin is approximately 0.000000000000</p>
+  </div>
+  </div>
 
 
   ## Mathematical Model
